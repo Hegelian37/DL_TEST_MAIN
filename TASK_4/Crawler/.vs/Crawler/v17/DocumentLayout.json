@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7196DC3C-8B47-46CC-AC36-83D8094DFA44}|Crawler\\Crawler.njsproj|D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7196DC3C-8B47-46CC-AC36-83D8094DFA44}|Crawler\\Crawler.njsproj|solutionrelative:Crawler\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7196DC3C-8B47-46CC-AC36-83D8094DFA44}|Crawler\\Crawler.njsproj|D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7196DC3C-8B47-46CC-AC36-83D8094DFA44}|Crawler\\Crawler.njsproj|solutionrelative:Crawler\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7196DC3C-8B47-46CC-AC36-83D8094DFA44}|Crawler\\Crawler.njsproj|D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7196DC3C-8B47-46CC-AC36-83D8094DFA44}|Crawler\\Crawler.njsproj|solutionrelative:Crawler\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\package.json",
+              "RelativeDocumentMoniker": "Crawler\\package.json",
+              "ToolTip": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\package.json",
+              "RelativeToolTip": "Crawler\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T11:21:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\README.md",
+              "RelativeDocumentMoniker": "Crawler\\README.md",
+              "ToolTip": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\README.md",
+              "RelativeToolTip": "Crawler\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-19T18:26:10.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\index.js",
+              "RelativeDocumentMoniker": "Crawler\\index.js",
+              "ToolTip": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\INDEFINITE\\TASK_4\\Crawler\\Crawler\\index.js",
+              "RelativeToolTip": "Crawler\\index.js",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T18:25:14.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_3\\Weban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{212F525B-90B8-4FEF-82D9-726F97C928E8}|Weban\\Weban.vcxproj|D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_3\\Weban\\Weban\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212F525B-90B8-4FEF-82D9-726F97C928E8}|Weban\\Weban.vcxproj|solutionrelative:Weban\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_3\\Weban\\Weban\\main.cpp",
+              "RelativeDocumentMoniker": "Weban\\main.cpp",
+              "ToolTip": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_3\\Weban\\Weban\\main.cpp",
+              "RelativeToolTip": "Weban\\main.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T18:19:42.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

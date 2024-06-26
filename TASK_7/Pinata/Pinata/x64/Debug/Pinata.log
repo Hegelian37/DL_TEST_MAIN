@@ -1,0 +1,6 @@
+﻿  isparse.cpp
+  main.cpp
+D:\Program Files (x86)\LD_TEST_TASKS\TASK_7\Pinata\Pinata\main.cpp(34,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Program Files (x86)\LD_TEST_TASKS\TASK_7\Pinata\Pinata\main.cpp(6,9): warning C4101: num: неиспользованная локальная переменная
+  Создание кода...
+  Pinata.vcxproj -> D:\Program Files (x86)\LD_TEST_TASKS\TASK_7\Pinata\x64\Debug\Pinata.exe

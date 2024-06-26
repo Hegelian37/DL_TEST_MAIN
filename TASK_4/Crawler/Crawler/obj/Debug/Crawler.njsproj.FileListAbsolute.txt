@@ -1,0 +1,3 @@
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\TASK_4\Crawler\Crawler\obj\Debug\Crawler.njsproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\TASK_4\Crawler\Crawler\obj\Debug\Crawler.njsproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\TASK_4\Crawler\Crawler\bin\Microsoft.NodejsTools.WebRole.dll

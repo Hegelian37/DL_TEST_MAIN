@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\UNFINISHED\\TASK_1\\Orderbook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6515037-7F63-4F64-8EA4-F6DFA80D06BA}|Orderbook\\Orderbook.vcxproj|D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\UNFINISHED\\TASK_1\\Orderbook\\Orderbook\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6515037-7F63-4F64-8EA4-F6DFA80D06BA}|Orderbook\\Orderbook.vcxproj|solutionrelative:Orderbook\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\UNFINISHED\\TASK_1\\Orderbook\\Orderbook\\main.cpp",
+              "RelativeDocumentMoniker": "Orderbook\\main.cpp",
+              "ToolTip": "D:\\Program Files (x86)\\Microsoft Visual Studio\\LD_TEST_TASKS\\UNFINISHED\\TASK_1\\Orderbook\\Orderbook\\main.cpp",
+              "RelativeToolTip": "Orderbook\\main.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T21:50:19.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

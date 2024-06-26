@@ -1,0 +1,21 @@
+{
+  "name": "crawler",
+  "version": "0.0.0",
+  "description": "Crawler",
+  "main": "index.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "start": "node index.js",
+  "dependencies": {
+    "async": "^3.2.5",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "queue-fifo": "^0.2.6",
+    "queue-typescript": "^1.0.1"
+  }
+}

@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\UNFINISHED\TASK_1\Orderbook\Orderbook\main.cpp(51,36): warning C4129: o: неизвестная escape-последовательность
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\UNFINISHED\TASK_1\Orderbook\Orderbook\main.cpp(57,36): warning C4129: o: неизвестная escape-последовательность
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\UNFINISHED\TASK_1\Orderbook\Orderbook\main.cpp(156,36): warning C4129: o: неизвестная escape-последовательность
+D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\UNFINISHED\TASK_1\Orderbook\Orderbook\main.cpp(156,64): warning C4129: o: неизвестная escape-последовательность
+  Orderbook.vcxproj -> D:\Program Files (x86)\Microsoft Visual Studio\LD_TEST_TASKS\UNFINISHED\TASK_1\Orderbook\x64\Debug\Orderbook.exe

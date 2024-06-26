@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\getinout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|solutionrelative:Capital\\getinout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\getin_fix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|solutionrelative:Capital\\getin_fix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|solutionrelative:Capital\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\calcs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|solutionrelative:Capital\\calcs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19710F9F-A56E-4C2A-96CA-0528B05957E5}|Capital\\Capital.vcxproj|solutionrelative:Capital\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "header.h",
+              "DocumentMoniker": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\header.h",
+              "RelativeDocumentMoniker": "Capital\\header.h",
+              "ToolTip": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\header.h",
+              "RelativeToolTip": "Capital\\header.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T11:54:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getin_fix.cpp",
+              "DocumentMoniker": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\getin_fix.cpp",
+              "RelativeDocumentMoniker": "Capital\\getin_fix.cpp",
+              "ToolTip": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\getin_fix.cpp",
+              "RelativeToolTip": "Capital\\getin_fix.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T17:35:09.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calcs.cpp",
+              "DocumentMoniker": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\calcs.cpp",
+              "RelativeDocumentMoniker": "Capital\\calcs.cpp",
+              "ToolTip": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\calcs.cpp",
+              "RelativeToolTip": "Capital\\calcs.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T12:00:35.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "getinout.cpp",
+              "DocumentMoniker": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\getinout.cpp",
+              "RelativeDocumentMoniker": "Capital\\getinout.cpp",
+              "ToolTip": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\getinout.cpp",
+              "RelativeToolTip": "Capital\\getinout.cpp",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAcwHYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T15:47:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\main.cpp",
+              "RelativeDocumentMoniker": "Capital\\main.cpp",
+              "ToolTip": "D:\\Program Files (x86)\\LD_TEST_TASKS\\TASK_8\\Capital\\Capital\\main.cpp",
+              "RelativeToolTip": "Capital\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T11:54:02.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
